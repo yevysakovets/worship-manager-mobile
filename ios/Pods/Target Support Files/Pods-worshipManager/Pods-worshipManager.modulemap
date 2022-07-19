@@ -1,0 +1,6 @@
+module Pods_worshipManager {
+  umbrella header "Pods-worshipManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
